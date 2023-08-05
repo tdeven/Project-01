@@ -1,0 +1,25 @@
+body{
+    text-align: justify;
+    background-color: rgb(216, 200, 231);
+    padding:1px;
+    border: 0ch;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+ .links span {
+    font-size: 60px;
+    color: #dd8d0d;
+    text-transform: uppercase;
+    margin: 10px 0;
+    text-decoration: underline;
+
+  }
+ .links a {
+    font-size: 50px;
+    text-decoration: none;
+    color: #dd8d0d;
+    padding: 10px  40px;
+   
+  }

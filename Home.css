@@ -1,0 +1,33 @@
+body{
+    text-align: justify;
+    background-color: rgb(226, 220, 231);
+    padding:1px;
+    border: 0ch;
+    border-radius: 10px;
+    
+}
+.container a{
+    font-size: 30px;
+    color:blueviolet
+}
+.container h1{
+    font-size: 35px;
+    color:black;
+    text-align: center;
+}
+.container hr{
+    padding: 4px;
+    background-color: brown;
+}
+.solid img{
+    margin: 20px;
+    position: relative;
+}
+.solid p{
+   font-size: 40px;
+   
+}
+
+.container-fluid.hama{
+    marker: auto;
+}

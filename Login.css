@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    margin: 20px;
+}
+form{
+    max-width: 400px;
+    margin: 10% auto;
+    padding: 20px;
+  
+    
+    border-radius: 20px;
+}
+form input{
+    width: 100%;
+    padding: 6px;
+    margin-bottom: 1px;
+    border-radius: 4px;
+    border: 1px solid rgb(11, 13, 125);
+    background-color:none;
+   
+}
+form input[type="button"]{
+    width: 100%;
+    padding:10px;
+    background-color:rgb(240, 92, 141);
+    color: #e18ee1;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #eef2f5;
+    margin: 0;
+    padding: 0;
+}
+h4{
+    text-align: center;
+}
+
+form input[type="button"]:hover{
+    background-color: green;
+}
